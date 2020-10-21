@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Messenger app with chat rooms.
+Live demo: [MessengerApp LIVE](https://messenger-app-fe98d.firebaseapp.com/)
 
 ## Available Scripts
 
