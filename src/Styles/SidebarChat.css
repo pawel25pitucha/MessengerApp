@@ -1,0 +1,21 @@
+.SidebarChat{
+    display: flex;
+    padding:5px;
+    margin-top: 10px;
+}
+
+.SidebarChat:hover{
+ box-shadow: 1px 1px 1px 1px lightslategray;
+}
+.SidebarChat__text{
+    margin-left: 5px;
+    color: snow;
+    text-decoration: none;
+}
+.SidebarChat__text p{
+    color: lightgray;
+    font-size: small;
+}
+a {
+    text-decoration: none;
+  }

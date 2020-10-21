@@ -1,0 +1,19 @@
+*{
+  margin:0;
+}
+.App{
+  display: grid;
+  align-items: center;
+  height: 100vh;
+  background-color: bisque;
+}
+
+.App__body{
+  display: flex;
+  height: 85vh;
+  width: 85vw;
+  margin: auto;
+  background-color: darkslategray;
+  box-shadow: 2px 2px 2px 2px lightslategrey;
+  border-radius: 10px;
+}

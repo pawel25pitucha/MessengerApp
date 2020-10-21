@@ -1,0 +1,45 @@
+.Sidebar{
+display: flex;
+flex-direction: column;
+flex:0.35;
+padding:15px;
+overflow: hidden;
+}
+.Sidebar__header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.MuiSvgIcon-root{
+    color: lightgray;
+}
+
+.Sidebar__search{
+    display: flex;
+    padding:10px;
+}
+.Sidebar__search input{
+    border-radius: 5px;
+    text-align:center;
+    border: 1px 1px 1px 1px black;
+}
+.Sidebar__newChat{
+    display:flex;
+    padding:10px;
+    justify-content: space-between;
+    color: lightgray;
+}
+.Sidebar__newChat:hover{
+    color: snow;
+    box-shadow: inset 0 0 1em snow, 0 0 0.5em gray;
+}
+.Sidebar__chats {
+    flex: 1;
+    overflow-y:scroll;
+    padding:15px;
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.Sidebar__chats::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}

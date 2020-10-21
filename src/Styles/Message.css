@@ -1,0 +1,31 @@
+.myMSG{
+    position: relative;
+    display: flex;
+    margin-left: auto;
+    border-radius: 5px;
+    width: fit-content;
+    align-items: center;
+    background-color: greenyellow;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.MSG{
+    position: relative;
+    display: flex;
+    border-radius: 5px;
+    width: fit-content;
+    align-items: center;
+    background-color: lightblue;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.messageTime{
+    margin-left: 15px;
+    font-size: xx-small;
+}
+.chatName{
+    position: absolute;
+    top:-12px;
+    font-weight: 700;
+    font-size: xx-small;
+}
