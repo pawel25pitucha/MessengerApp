@@ -1,5 +1,5 @@
 ## Messenger app with chat rooms.
-Live demo: [MessengerApp LIVE](https://messenger-app-fe98d.firebaseapp.com/)
+# Live demo: [MessengerApp LIVE](https://messenger-app-fe98d.firebaseapp.com/)
 
 ## Available Scripts
 
